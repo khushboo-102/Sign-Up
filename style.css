@@ -1,0 +1,35 @@
+body{
+    background-color:skyblue;
+     
+}
+div{
+    background-color:white;
+    max-width: 90%;
+    /* width: 50px; */
+    display: block;
+    /* margin: auto; */
+    padding: 2%;
+    margin-top: 4%;
+    /* margin-bottom: 10%; */
+    margin-left: auto;
+    margin-right: auto;
+       
+}
+#button{
+    background-color:blue;
+    color: white;
+    padding: 10px;
+}
+.name{
+    padding: 2%;
+    width: 80%;
+}
+
+#div1{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    margin-left: 1px;
+    margin-bottom: 10px;
+
+}
